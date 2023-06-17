@@ -9,7 +9,7 @@
 			{#each data.images as x}
 				<div class="card 2xl:w-96 md:w-72 bg-base-100 shadow-xl">
 					<figure class="max-h-60 overflow-hidden bg-red-300">
-						<img class="object-cover w-96 s" src={x.url} alt="Shoes" />
+						<img class="object-cover w-96 s" loading="lazy" src={x.url} alt="Shoes" />
 					</figure>
 					<div class="card-body">
 						<h2 class="card-title">image {x.image_id}</h2>
