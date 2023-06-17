@@ -7,9 +7,9 @@
 
 <div class="flex flex-col justify-between h-screen">
     <Navbar/>
-	<div class="gap-4 flex bg-fuchsia-100">
+	<div class="gap-4 overflow-hidden flex bg-fuchsia-100">
 		<Drawer/>
-		<div class="w-full">
+		<div class="w-full overflow-y-scroll">
 			<slot />
 		</div>
 	</div>

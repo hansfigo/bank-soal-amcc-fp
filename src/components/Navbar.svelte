@@ -7,7 +7,7 @@
             <li><a>Link</a></li>
             <li>
                 <details>
-                    <summary> Parent </summary>
+                    <summary> Kategori </summary>
                     <ul class="p-2 bg-base-100 z-10">
                         <li><a>Link 1</a></li>
                         <li><a>Link 2</a></li>
