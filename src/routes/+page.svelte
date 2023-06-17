@@ -3,8 +3,8 @@
 </script>
 
 <div class=" flex justify-center  h-full">
-	<div class="container px-8">
-        <div class="grid grid-cols-1  lg:grid-cols-3 2xl:grid-cols-4  gap-12">
+	<div class="container px-8 md:px-0">
+        <div class="grid grid-cols-1  lg:grid-cols-3 2xl:grid-cols-4 gap-12">
             {#each data.images as x, i }
             <div class="card 2xl:w-96 md:w-72 bg-base-100 shadow-xl">
                 <figure class="max-h-60 overflow-hidden bg-red-300">
