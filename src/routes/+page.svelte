@@ -3,10 +3,10 @@
 </script>
 
 <div class=" flex justify-center  h-full">
-	<div class="container">
-        <div class="grid grid-cols-4 gap-12">
+	<div class="container px-8">
+        <div class="grid grid-cols-1  lg:grid-cols-3 2xl:grid-cols-4  gap-12">
             {#each data.images as x, i }
-            <div class="card w-96 bg-base-100 shadow-xl">
+            <div class="card 2xl:w-96 md:w-72 bg-base-100 shadow-xl">
                 <figure class="max-h-60 overflow-hidden bg-red-300">
                     <img class="object-cover w-96 s" src={x.url} alt="Shoes" />
                 </figure>
