@@ -1,6 +1,6 @@
 <div class="navbar bg-base-100">
     <div class="flex-1">
-        <a class="btn btn-ghost normal-case text-xl">⚡ Bank Soal Demo </a>
+        <a class="btn btn-ghost normal-case text-xl" href="/">⚡ Bank Soal Demo </a>
     </div>
     <div class=" hidden md:flex-none md:flex">
         <ul class="menu menu-horizontal px-1">
@@ -9,8 +9,8 @@
                 <details>
                     <summary> Kategori </summary>
                     <ul class="p-2 bg-base-100 z-10">
-                        <li><a>Link 1</a></li>
-                        <li><a>Link 2</a></li>
+                        <li><a href="/kategori/ujian-akhir">Ujian Akhir Semester</a></li>
+                        <li> <a href="/kategori/ujian-tengah">Ujian Tengah Semester</a></li>
                     </ul>
                 </details>
             </li>
