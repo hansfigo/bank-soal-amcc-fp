@@ -4,7 +4,7 @@
     </div>
     <div class=" hidden md:flex-none md:flex">
         <ul class="menu menu-horizontal px-1">
-            <li><a>Link</a></li>
+            <li><a href="/user/xxx/post/">Upload</a></li>
             <li>
                 <details>
                     <summary> Kategori </summary>
