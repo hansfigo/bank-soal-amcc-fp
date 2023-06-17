@@ -14,7 +14,7 @@
                     <h2 class="card-title">image {i}</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit facilis dolorum, minima debitis officia quas tempore beatae at neque nesciunt fugiat voluptates placeat, </p>
                     <div class="card-actions justify-end">
-                        <button class="btn btn-primary">Buy Now</button>
+                        <button class="btn btn-primary">Detail</button>
                     </div>
                 </div>
             </div>
